@@ -10,3 +10,5 @@ I am currently working as a marketing associate, but seeking to work as a fronte
 - making small projects
 - learning a framework (React, Vue or Svelte seems good)
 - better web design
+
+ちなみに日本語も英語もOKです
